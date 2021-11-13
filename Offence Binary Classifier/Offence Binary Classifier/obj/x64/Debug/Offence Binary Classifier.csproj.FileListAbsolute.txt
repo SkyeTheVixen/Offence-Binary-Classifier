@@ -1,0 +1,61 @@
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\LdaNative.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\CpuMathNative.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Offence Binary Classifier.exe.config
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Offence Binary Classifier.exe
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Offence Binary Classifier.pdb
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.Core.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.Data.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.DataView.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.PCA.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.Transforms.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Newtonsoft.Json.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Buffers.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.CodeDom.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Collections.Immutable.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Memory.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Numerics.Vectors.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Threading.Channels.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.Core.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.CpuMath.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.Data.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.DataView.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.KMeansClustering.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.PCA.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.StandardTrainers.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.ML.Transforms.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Newtonsoft.Json.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Buffers.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Collections.Immutable.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Memory.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Numerics.Vectors.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Threading.Channels.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\obj\x64\Debug\Offence Binary Classifier.csproj.AssemblyReference.cache
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\obj\x64\Debug\Offence Binary Classifier.csproj.CoreCompileInputs.cache
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\obj\x64\Debug\Offence Binary Classifier.exe
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\obj\x64\Debug\Offence Binary Classifier.pdb
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Discord.Net.Commands.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Discord.Net.Core.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Discord.Net.Rest.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Discord.Net.Webhook.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Discord.Net.WebSocket.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Interactive.Async.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Linq.Async.dll
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Discord.Net.Commands.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Discord.Net.Core.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Discord.Net.Rest.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Discord.Net.Webhook.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Discord.Net.WebSocket.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Interactive.Async.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\bin\x64\Debug\System.Linq.Async.xml
+F:\Documents\!Projects\AI\2. OffenceClassification\Offence-Binary-Classifier\Offence Binary Classifier\Offence Binary Classifier\obj\x64\Debug\Offence Binary Classifier.csproj.CopyComplete
