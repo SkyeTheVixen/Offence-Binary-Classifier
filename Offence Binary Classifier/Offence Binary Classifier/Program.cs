@@ -37,7 +37,7 @@ namespace Offence_Binary_Classifier
         {
             _client = new DiscordSocketClient();
             _client.Log += Log;
-            await _client.LoginAsync(TokenType.Bot, "OTA2Njc2NzY5NDUxNTQwNTkw.YYcGiw.7mSx9JyGFNvpFosjpnGHAVCD314");
+            await _client.LoginAsync(TokenType.Bot, "TOKEN");
             await _client.StartAsync();
             await Task.Delay(-1);
         }
